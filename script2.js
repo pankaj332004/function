@@ -5,7 +5,7 @@
 // const arg2 = "argument 2";
 // console.log(tester(arg1,arg2));
 
-
+//
 // default arguments are the trailling arguments
 // function addTwoNumbers(x = 2, y = 3){
 //     console.log(x+y);
